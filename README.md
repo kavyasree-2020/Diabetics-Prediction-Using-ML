@@ -14,17 +14,17 @@ Topic Name : Diabetes Prediction Using Machine Learning.
 
 ## Algortihms Used :
 
-   Logistic Regression
-   Support Vector Machine
-    KNN
-    Random Forest Classifier
-    Naivye Bayes
+   Logistic Regression ,
+   Support Vector Machine ,
+    KNN ,
+    Random Forest Classifier ,
+    Naivye Bayes and
     Gradient Boosting
 
 ## Model Evaluation Methods Used
-   Accuracy Score
-   ROC AUC Curve
-   Cross Validation
+   Accuracy Score ,
+   ROC AUC Curve ,
+   Cross Validation and
    Confusion Matrix
 
 
