@@ -28,8 +28,7 @@ Topic Name : Diabetes Prediction Using Machine Learning.
    Confusion Matrix
 
 
-## Guide Lines
-    Packages and Tools Required:
+## Packages and Tools Required:
     Pandas 
     Matplotlib
     Seaborn
